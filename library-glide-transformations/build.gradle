@@ -8,7 +8,7 @@ publish {
     uploadName = "glide_transformations"//为上传后，在bintray显示的名字。
     publishVersion = "1.0.0"//版本号 ，compile引用时的最后部分，下次更新是只需要更改版本号即可
     desc = "glide_transformations"//描述，不重要
-    website = "https://github.com/Citrussss/PictureSelector" //项目的GitHub网站
+    website = "https://github.com/Citrussss/glide-transformations" //项目的GitHub网站
     licences = ["Apache-2.0"]
 }
 
